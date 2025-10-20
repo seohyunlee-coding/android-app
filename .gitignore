@@ -1,0 +1,63 @@
+# Gradle
+.gradle/
+**/build/
+
+# Android/IntelliJ
+/.idea/
+*.iml
+*.hprof
+
+# IDE files (Android Studio/IntelliJ)
+.idea/
+.idea/*
+AndroidProjectSystem.xml
+*.iws
+*.ipr
+
+# local SDK path and local-only files
+local.properties
+.name
+
+# Keystore
+*.jks
+*.keystore
+*.keystore.*
+
+# Generated files
+*.apk
+*.ap_
+*.aab
+
+# Crashlytics / Fabric
+crashlytics-build.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+Icon?
+
+# Logs
+*.log
+
+# NDK
+obj/
+.externalNativeBuild/
+
+# Other build/artifact folders
+captures/
+build/
+**/build/
+
+# Derived files
+*.class
+
+# Android resource caches
+.gradle/
+
+
+
+
+# macOS
+Icon?
+
+# End of file
